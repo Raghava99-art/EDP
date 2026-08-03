@@ -32,7 +32,7 @@ This project is designed for beginners who are learning **Pandas** and **Data Pr
 ## 📂 Project Structure
 
 ```
-Healthcare-Data-Analysis/
+EDP WEEK-1/src/
 │
 ├── healthcare.csv
 ├── Cleaning.py
