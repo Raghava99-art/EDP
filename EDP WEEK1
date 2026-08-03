@@ -1,0 +1,21 @@
+import pandas as pd
+data = {
+    "Hours_Studied": [2, 4, 6, 8, None],
+    "Attendance": [60, 75, 80, 95, 85],
+    "Previous_Marks": [55, 65, 75, 90, 70],
+    "Result": ["Fail", "Pass", "Pass", "Pass", "Pass"]
+}
+df = pd.DataFrame(data)
+print("Original Dataset:")
+print(df)
+print("\nMissing Values:")
+print(df.isnull().sum())
+df["Hours_Studied"] = df["Hours_Studied"].fillna(df["Hours_Studied"].mean())
+print("\nCleaned Dataset:")
+print(df)
+X = df[["Hours_Studied", "Attendance", "Previous_Marks"]]
+y = df["Result"]
+print("\nFeatures (X):")
+print(X)
+print("\nLabels (y):")
+print(y)
