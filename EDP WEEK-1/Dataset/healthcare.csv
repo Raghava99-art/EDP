@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Blood_Pressure,Heart_Rate,Sugar_Level,Diagnosis
+101,25,Male,120,72,95,Healthy
+102,40,Female,140,85,140,Diabetes
+103,35,Male,130,78,110,Healthy
+104,,Female,135,80,,Hypertension
+105,50,Male,,90,160,Diabetes
+106,45,Female,145,88,150,Diabetes
+107,32,Male,125,75,100,Healthy
+108,60,Female,155,92,180,Diabetes
+109,55,Male,150,89,170,Hypertension
+110,29,Female,118,70,90,Healthy

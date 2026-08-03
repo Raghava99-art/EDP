@@ -1,0 +1,30 @@
+import pandas as pd
+df = pd.read_csv("healthcare.csv")
+print("===== Original Healthcare Dataset =====")
+print(df)
+print("\n===== Dataset Information =====")
+df.info()
+print("\n===== Missing Values =====")
+print(df.isnull().sum())
+df["Age"] = df["Age"].fillna(df["Age"].mean())
+df["Blood_Pressure"] = df["Blood_Pressure"].fillna(df["Blood_Pressure"].mean())
+df["Sugar_Level"] = df["Sugar_Level"].fillna(df["Sugar_Level"].mean())
+
+print("\n===== Cleaned Dataset =====")
+print(df)
+X = df[["Age", "Gender", "Blood_Pressure", "Heart_Rate", "Sugar_Level"]]
+print("\n===== Features (X) =====")
+print(X)
+y = df["Diagnosis"]
+print("\n===== Label (y) =====")
+print(y)
+print("\n===== Average Health Values =====")
+print("Average Age:", df["Age"].mean())
+print("Average Blood Pressure:", df["Blood_Pressure"].mean())
+print("Average Heart Rate:", df["Heart_Rate"].mean())
+print("Average Sugar Level:", df["Sugar_Level"].mean())
+print("\n===== Diagnosis Count =====")
+print(df["Diagnosis"].value_counts())
+print("\n===== Diabetes Patients =====")
+diabetes_patients = df[df["Diagnosis"] == "Diabetes"]
+print(diabetes_patients)
