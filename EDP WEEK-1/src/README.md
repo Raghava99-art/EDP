@@ -34,7 +34,7 @@ This project is designed for beginners who are learning **Pandas** and **Data Pr
 ```
 EDP WEEK-1/src/
 │
-├── healthcare.csv
+├── requirements.txt
 ├── Cleaning.py
 └── README.md
 ```
