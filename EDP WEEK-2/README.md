@@ -28,22 +28,22 @@ pip install pandas numpy
 ## Project Files
 
 ```
-Healthcare_Project/
+EDP WEEK-2/
 │
-├── healthcare_data.csv
-├── linear_regression.py
+├── Dataset
+├── src
 └── README.md
 ```
 
 ## How to Run
 
 1. Save the dataset as `healthcare_data.csv`.
-2. Save the Python program as `linear_regression.py`.
+2. Save the Python program as `Train_Test.py`.
 3. Open a terminal in the project folder.
 4. Run the program:
 
 ```bash
-python linear_regression.py
+python Train_Test.py
 ```
 
 ## Features
