@@ -137,11 +137,11 @@ It then predicts the class of an unknown patient record.
                 ▼                 ▼
              VALID          SPAM / MISMATCH
 📁 Project Structure
-Healthcare_Spam_Detection/
+EDP WEEK-3/
 │
-├── healthcare_spam_detector.py
+├── src/healthcare_spam_detector.py
 │
-├── patient_records.csv
+├── Dataset/patient_records.csv
 │
 └── README.md
 Files
