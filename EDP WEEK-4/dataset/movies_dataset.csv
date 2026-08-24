@@ -1,0 +1,16 @@
+movieId,title,genre,mood,average_rating,review_count
+101,Titanic,Romance,Emotional,4.8,950
+102,Avatar,Sci-Fi,Exciting,4.7,900
+103,Inception,Sci-Fi,Suspenseful,4.9,1000
+104,Interstellar,Sci-Fi,Emotional,4.8,920
+105,The Matrix,Action,Exciting,4.6,850
+106,Avengers: Endgame,Action,Exciting,4.7,980
+107,Joker,Drama,Emotional,4.5,800
+108,Frozen,Animation,Funny,4.4,750
+109,Toy Story,Animation,Funny,4.6,700
+110,The Lion King,Animation,Emotional,4.7,820
+111,Spider-Man,Action,Exciting,4.5,780
+112,The Dark Knight,Action,Suspenseful,4.9,1100
+113,The Notebook,Romance,Emotional,4.3,650
+114,Jurassic Park,Adventure,Exciting,4.6,870
+115,The Conjuring,Horror,Suspenseful,4.2,600
