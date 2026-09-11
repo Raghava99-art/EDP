@@ -15,9 +15,9 @@ A simple **Content-Based Movie Recommendation System** developed using Python. I
 ## 📂 Project Structure
 
 ```text
-Movie_Recommendation/
-├── movies.csv
-├── movie_recommendation.py
+EDP WEEK-5/
+├── dataset/movies.csv
+├── src/recommendation.py
 └── README.md
 ```
 
