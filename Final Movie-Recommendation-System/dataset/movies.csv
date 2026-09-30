@@ -1,0 +1,31 @@
+id,title,genres,description,year,language,rating
+1,The Space Journey,Sci-Fi|Adventure,A young astronaut travels beyond Earth and discovers a mysterious planet with a hidden civilization.,2024,English,8.4
+2,Galaxy Warriors,Sci-Fi|Action,A team of space warriors protects the galaxy from an interstellar enemy.,2023,English,8.1
+3,Robot Dreams,Sci-Fi|Drama,A robotics engineer creates an intelligent machine that begins to understand human emotions.,2022,English,8.0
+4,The Last Mission,Action|Thriller,An experienced agent accepts one final mission to rescue a kidnapped scientist.,2021,English,7.8
+5,Midnight Chase,Action|Thriller,A detective races through a city at night to stop a dangerous criminal network.,2023,English,7.7
+6,Hidden Truth,Thriller|Mystery,A journalist investigates a missing-person case and uncovers a decades-old secret.,2022,English,8.2
+7,The Lost Kingdom,Adventure|Fantasy,A young explorer enters a forgotten kingdom protected by ancient magic.,2020,English,7.9
+8,Dragon Valley,Fantasy|Adventure,An ordinary villager discovers a valley where legendary dragons still survive.,2021,English,8.0
+9,Magic Academy,Fantasy|Drama,A student joins a secret academy where young people learn to control magical abilities.,2023,English,7.6
+10,Love in Paris,Romance|Drama,Two strangers meet in Paris and develop a relationship while facing difficult choices.,2022,English,8.1
+11,Forever Us,Romance|Comedy,Two childhood friends realize that their friendship may have become something more.,2023,English,7.5
+12,Wedding Weekend,Romance|Comedy,A chaotic wedding weekend brings two families together and creates an unexpected romance.,2021,English,7.2
+13,The Silent Room,Horror|Mystery,A family moves into an old house where a locked room hides a terrifying secret.,2020,English,7.9
+14,Night of Shadows,Horror|Thriller,A group of friends becomes trapped in an abandoned hotel during a storm.,2022,English,7.6
+15,Haunted Memories,Horror|Drama,A woman returns to her childhood home and begins experiencing strange visions.,2021,English,7.4
+16,The Great Detective,Mystery|Crime,A brilliant detective uses unusual clues to solve a series of connected crimes.,2019,English,8.3
+17,Crime Files,Crime|Thriller,A police investigator follows a trail of evidence connecting several city robberies.,2020,English,7.8
+18,Code Breaker,Crime|Mystery,A cybersecurity expert helps investigators decode messages left by an unknown criminal.,2024,English,8.2
+19,Family Ties,Drama|Family,Three generations of a family reunite and confront unresolved problems from the past.,2022,English,8.0
+20,The Father,Drama|Family,A father and daughter rebuild their relationship after years apart.,2021,English,8.4
+21,Campus Days,Comedy|Drama,College students experience friendship exams ambition and the challenges of growing up.,2023,English,7.7
+22,Funny Business,Comedy,A group of friends starts a small business that quickly becomes a series of comic disasters.,2022,English,7.3
+23,Holiday Trouble,Comedy|Family,A family vacation turns into an unforgettable adventure full of unexpected problems.,2020,English,7.1
+24,Ocean Deep,Adventure|Drama,Marine researchers explore the deep ocean and discover an unexplained ecosystem.,2024,English,8.3
+25,Mountain Rescue,Adventure|Thriller,A rescue team climbs a dangerous mountain to save stranded travelers.,2022,English,7.9
+26,Indian Dreams,Drama|Family,An ambitious young person balances family expectations with a dream of becoming an artist.,2023,Hindi,8.1
+27,City Lights,Romance|Drama,A musician and photographer meet while trying to build their careers in a busy city.,2022,Hindi,7.8
+28,The Village Story,Drama|Family,A young teacher returns to a village and works with the community to improve education.,2021,Hindi,8.0
+29,Warrior King,Action|Historical,A courageous king defends his kingdom against a powerful invading army.,2020,Hindi,8.2
+30,Future India,Sci-Fi|Drama,A scientist in India develops technology that could change the future of humanity.,2025,Hindi,8.5
