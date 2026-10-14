@@ -69,4 +69,4 @@ Example request:
 - `frontend/src/`: React UI
 
 ## Important
-This is a learning project, not an official college service. Do not upload private student information. Similarity scores are retrieval signals, not guaranteed probabilities of correctness.
+This is a learning project, not an official college service.
