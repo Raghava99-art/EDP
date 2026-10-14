@@ -1,4 +1,4 @@
-# CampusGuide AI — Smart Student Helpdesk
+# CampusMate  — Smart Student Helpdesk
 
 A college FAQ chatbot using sentence embeddings and cosine similarity. It includes a FastAPI backend, a React/Vite frontend, sample FAQ data, feedback storage, and search evaluation scripts.
 
